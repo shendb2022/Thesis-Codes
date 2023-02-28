@@ -1,1 +1,3 @@
-The running process is DataReader->DSPHF
+The running order is
+1. DataReader
+2. DSPHF
