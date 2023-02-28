@@ -1,1 +1,1 @@
-## Please download the CAVE datasets from https://www1.cs.columbia.edu/CAVE/databases/multispectral/ and put it here.
+# Please download the CAVE datasets from https://www1.cs.columbia.edu/CAVE/databases/multispectral/ and put it here. For example, the absolute path is like 'datasets/CAVE/balloons_ms/balloons_ms/balloons_ms_01.png'.
